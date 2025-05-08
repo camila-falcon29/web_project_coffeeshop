@@ -32,7 +32,7 @@
   display: flex;
   gap: 20px;
   justify-content: flex-end;
-  font-family: "Inter" Arial, sans-serif;
+  font-family: "Inter", Arial, sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
@@ -46,7 +46,7 @@
 
 .header__title {
   margin-top: 183px;
-  font-family: "Inter" Arial, sans-serif;
+  font-family: "Inter", Arial, sans-serif;
   font-weight: 500;
   font-size: 58px;
   line-height: 72px;
@@ -54,7 +54,7 @@
   max-width: 709px;
 }
 .header__span-accent {
-  font-family: "Noto Serif" "Times New Roman", serif;
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-style: italic;
   font-size: 58px;
   line-height: 72px;
@@ -62,7 +62,7 @@
   display: block;
 }
 .header__description {
-  font-family: "Noto Serif" "Times New Roman", serif;
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-size: 20px;
   line-height: 30px;
   max-width: 683px;
