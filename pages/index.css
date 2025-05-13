@@ -160,17 +160,16 @@
   align-items: center;
 }
 .reservation__title {
-  margin-bottom: 80px;
   font-family: Inter;
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
+  margin: 0 auto 80px;
 }
 .form {
   max-width: 385px;
 }
-.form__reservation_form {
-}
+
 .form__fieldset {
   margin-bottom: 120px;
   margin-left: auto;
