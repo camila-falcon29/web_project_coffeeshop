@@ -18,6 +18,9 @@
   margin: 0;
 }
 .nav__link {
-  color: #2f80ed;
   text-decoration: none;
+  color: #000;
+}
+.nav__link:hover {
+  color: #2f80ed;
 }
