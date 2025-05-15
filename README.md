@@ -1,4 +1,7 @@
+
 # Triple Espresso
+![Layout da interface](./images/redme_backgound.png)
+
 
 ## Projeto: HTML e CSS Avançados
 
